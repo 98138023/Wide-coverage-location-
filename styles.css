@@ -1,0 +1,172 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+a {
+    letter-spacing: 0.875px;
+    line-height: 21px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #17233D;
+    width: 83px;
+    margin: 47px 32px 0 42px;
+
+}
+
+button {
+    letter-spacing: 1px;
+    line-height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFF;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    width: 124px;
+    height: 51px;
+    flex-shrink: 0;
+    cursor: pointer;
+
+}
+
+    
+
+img{
+    display: inline-block;
+     max-width:100%;
+    margin-top: 194px;
+    margin-left: 121px;
+}
+.link-header {
+    margin: 342px 57px 0 0;
+display: inline-block;
+position: absolute;
+width: 44%;
+margin-left: 85px;
+}
+h1{
+    letter-spacing: 0.596px;
+    line-height: 82px; 
+    font-size: 62px;
+    color: #161A49;
+    width: 582px;
+    margin-bottom: 47px;
+}
+p{
+    letter-spacing: 0.5px;
+    line-height: 33px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #4B505A;
+    width: 493px;
+    margin-bottom: 55px;
+}
+.link-verde{
+    letter-spacing: 1px;
+    line-height:27px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #6FBF44;
+    cursor: pointer;
+}
+.meu{
+    
+    border: none;
+a{
+    cursor: pointer;
+}
+}
+.meu a:hover{
+    opacity: 0.4;
+}
+.meu a:active{
+    opacity: 0.8;
+}
+
+button :active{
+    opacity: 0.8;
+}
+button :hover{
+    opacity: 0.4;
+}
+.link-verde:active{
+   opacity:0.8 ; 
+}
+.link-verde :hover{
+    opacity: 0.6;
+}
+
+
+@media screen and ( max-width:900px){ 
+
+    .meu a{
+    display: none;
+    }
+    button{
+        width: 91px;
+        height: 31px;
+        flex-shrink: 0;
+        font-size: 12px;
+        font-weight: 500;
+        line-height:18px;
+        letter-spacing: 1px;
+         margin-left: 60%;
+    margin-top: 15px;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    }
+    .link-header{
+        margin-top: 80px;
+        width: 100vw;
+        height: 50vh;
+       text-align: center;
+       position: static;
+       margin-left: 4%;
+       
+    }
+    h1{
+        text-align: center;
+       width: 278px;
+        line-height: 30px; 
+        font-size: 30px;
+        margin-right:43px;
+        margin-left:6%;
+       
+    }
+    p{
+        text-align: center;
+        letter-spacing: 0.5px;
+        line-height: 33px; 
+        font-weight: 400;
+        font-size: 18px;
+        color: #4B505A;
+        width: 304px;
+        margin-left: 6%;
+        margin-right:auto;
+    }
+    .link-verde{
+        letter-spacing: 1px;
+        line-height:27px;
+        font-weight: 500;
+        font-size: 18px;
+        color: #6FBF44;
+        margin-top: 18px;
+        margin-bottom: 76px;
+        margin-left:auto;
+    }
+img{ 
+    
+    display: block;
+    max-height: 100%;
+    width: 60vw;
+    margin-top: 450px;
+    margin-left: 16%;
+     position: absolute;
+}
+}
