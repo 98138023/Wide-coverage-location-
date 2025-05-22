@@ -116,7 +116,7 @@ button :hover{
         font-weight: 500;
         line-height:18px;
         letter-spacing: 1px;
-         margin-left: 60%;
+         margin-left: 71%;
     margin-top: 15px;
     border-radius: 6px;
     border: 1px solid #4CB538;
@@ -156,7 +156,7 @@ button :hover{
         font-weight: 500;
         font-size: 18px;
         color: #6FBF44;
-        margin-top: 18px;
+        margin-top: 26px;
         margin-bottom: 76px;
         margin-left:auto;
     }
@@ -164,9 +164,10 @@ img{
     
     display: block;
     max-height: 100%;
-    width: 60vw;
-    margin-top: 450px;
+    width: 60%;
+    margin-top: 455px;
     margin-left: 16%;
      position: absolute;
+     margin-bottom: 23px;
 }
 }
