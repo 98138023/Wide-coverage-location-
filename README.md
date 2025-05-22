@@ -5,4 +5,7 @@
 <br>
 <img src="https://github.com/98138023/Wide-coverage-location-/blob/main/assets/para%20pc.png?raw=true">
 <br>
-<img src="
+<h2>mobile<h2>
+<div aling="center">
+<img src="https://github.com/98138023/Wide-coverage-location-/blob/main/assets/para%20celular.png?raw=true" alt="Imagem centralizada" width="30%">
+</div>
