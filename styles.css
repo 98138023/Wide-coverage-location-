@@ -166,11 +166,11 @@ img{
     
     display: block;
     max-height: 100%;
-    width: 60%;
+    max-width: 90%;
     margin-top: 485px;
-    margin-left: 18%;
+    margin-left: 6%;
      position: absolute;
      margin-bottom: 23px;
-     padding: 30px;
+     
 }
 }
